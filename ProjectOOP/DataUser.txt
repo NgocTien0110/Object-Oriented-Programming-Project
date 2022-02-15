@@ -1,0 +1,10 @@
+tiencute
+/
+	The house includes:
+	Length of house:20
+	Width of house:10
+	The house includes:
+	Length of house:10
+	Width of house:10
+	Door of house:2 Doors and Material is wood
+/
